@@ -1,0 +1,25 @@
+:root {
+
+    /** COLORS */
+
+    --color1: #000;
+    --color2: #FFF;
+    --color3: #121212;
+    --color4: #b3b3b3;
+    --color5: #242424;
+    --color6: #878787;
+    --color7: #A7A7A7;
+
+    --bg-arrow-color: rgba(0, 0, 0, 07);
+
+
+    /** FONTS */
+
+    --font-dm-sans: "DM Sans", sans-serif;
+
+}
+
+@font-face {
+    font-family: "DM Sans";
+    src: url("./src/assets/fonts/DMSans-Regular.ttf");
+}

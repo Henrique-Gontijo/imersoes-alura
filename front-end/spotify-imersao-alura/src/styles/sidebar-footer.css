@@ -1,0 +1,218 @@
+/** SIDEBAR */
+
+body {
+    background-color: var(--color1);
+    font-family: var(--font-dm-sans);
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 12px;
+    width: 300px;
+}
+
+.sidebar nav ul {
+    margin-top: 20px;
+    padding: 0 16px 10px 16px;
+}
+
+.sidebar ul li {
+    padding: 10px 0;
+}
+
+.sidebar nav ul li a {
+    color: var(--color4);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+
+.sidebar nav ul li a span {
+    margin: 4px;
+}
+
+.sidebar__navegation {
+    background-color: var(--color3);
+    border-radius: 8px;
+
+    padding: 16px 0 0 16px;
+}
+
+.sidebar__navegation .logo {
+    background: var(--color3);
+    display: flex;
+    border-radius: 8px;
+    padding: 8px 0 0 8px;
+}
+
+.logo img {
+    width: 80px;
+}
+
+.library {
+    background-color: var(--color3);
+    color: var(--color4);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 4px 8px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.library .library__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.library .library__button {
+    color: var(--color4);
+    background: transparent;
+    display: flex;
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 10px;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+}
+.library .library__button .fa {
+    font-size: 20;
+    font-weight: 600;
+    margin-right: 10px;
+    padding-right: 8;
+}
+
+.library .library__content .fa-plus {
+    margin: 24px 10px;
+}
+
+.section-playlist {
+    color: var(--color4);
+    background-color: var(--color5);
+    border-radius: 8px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 8px 0;
+    padding: 16px 20px;
+}
+
+.section-playlist .section-playlist__content {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-playlist__content .text {
+    color: var(--color2);
+    padding-bottom: 14px;
+}
+
+.section-playlist__content .title {
+    font-weight: 700;
+}
+
+.section-playlist__content .subtitle {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.section-playlist__content .section-playlist__button {
+    background-color: var(--color2);
+    color: var(--color1);
+    border: 0;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 700;
+    margin-top: 12px;
+    padding: 10px;
+    text-decoration: none;
+    width: 113px;
+}
+
+.sidebar .cookies {
+    margin: 25px 20px;
+}
+
+.sidebar .cookies a {
+    color: var(--color4);
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.sidebar .cookies a:hover {
+    text-decoration: underline;
+}
+
+.languages .languages__button {
+    align-items: center;
+    background-color: transparent;
+    border: 1px solid var(--color6) ;
+    border-radius: 20px;
+    color: var(--color2);
+    cursor: poiter;
+    font-weight: bold;
+    margin: 8px;
+    padding: 8px;
+    width: 170px;
+}
+
+/** FOOTER */
+
+.disclaimer-premium {
+    align-items: center;
+    background: linear-gradient(to right, #ae2896, #509bf5);
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 40px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.disclaimer-premium .text {
+    flex-shrink: 0;
+    color: var(--color2);
+
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.1rem;
+}
+
+.disclaimer-premium .disclaimer-premium__title {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.disclaimer-premium .disclaimer-premium__subtitle {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.disclaimer-premium .disclaimer-premium__button {
+    background-color: var(--color2);
+    color: var(--color1);
+    border-radius: 40px;
+    border-style: hidden;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    flex-shrink: 0;
+    padding: 14px 30px;
+}
