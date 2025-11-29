@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Elden Ring",
+    "description": "Um épico RPG de ação em um vasto mundo de fantasia sombria, conhecido por sua dificuldade e liberdade de exploração.",
+    "year": "2022",
+    "link": "https://en.bandainamcoent.eu/elden-ring/elden-ring",
+    "tags": [
+      "RPG",
+      "Mundo Aberto",
+      "Ação",
+      "Fantasia"
+    ]
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "description": "Uma história profunda ambientada no Velho Oeste americano, focada na vida de um fora da lei e na decadência de sua gangue.",
+    "year": "2018",
+    "link": "https://www.rockstargames.com/reddeadredemption2",
+    "tags": [
+      "Mundo Aberto",
+      "Ação",
+      "Aventura",
+      "História"
+    ]
+  },
+  {
+    "name": "Hades",
+    "description": "Um roguelite de ação rápido onde você joga como o filho de Hades tentando escapar do Submundo grego.",
+    "year": "2020",
+    "link": "https://www.supergiantgames.com/games/hades/",
+    "tags": [
+      "Ação",
+      "Roguelite",
+      "Indie",
+      "Mitologia"
+    ]
+  },
+  {
+    "name": "God of War (2018)",
+    "description": "A reinvenção da série, foca em Kratos e seu filho Atreus em uma jornada pela mitologia Nórdica, combinando combate intenso e narrativa emocional.",
+    "year": "2018",
+    "link": "https://www.playstation.com/pt-br/games/god-of-war/",
+    "tags": [
+      "Ação",
+      "Aventura",
+      "Mitologia",
+      "História",
+      "Hack and Slash"
+    ]
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "description": "Um RPG de ação em mundo aberto ambientado na megalópole futurista de Night City, onde o corpo e a mente são constantemente aprimorados.",
+    "year": "2020",
+    "link": "https://www.cyberpunk.net/",
+    "tags": [
+      "RPG",
+      "Mundo Aberto",
+      "Ficção Científica",
+      "Ação"
+    ]
+  },
+  {
+    "name": "Hollow Knight",
+    "description": "Um aclamado Metroidvania indie com arte desenhada à mão, focado em exploração e combate desafiador em um reino de insetos.",
+    "year": "2017",
+    "link": "https://www.hollowknight.com/",
+    "tags": [
+      "Metroidvania",
+      "Plataforma",
+      "Indie",
+      "Exploração"
+    ]
+  },
+  {
+    "name": "Doom Eternal",
+    "description": "Um FPS brutal e rápido que exige gerenciamento de recursos e movimento constante para destruir hordas demoníacas.",
+    "year": "2020",
+    "link": "https://bethesda.net/en/game/doom-eternal",
+    "tags": [
+      "FPS",
+      "Ação",
+      "Tiro",
+      "Gore"
+    ]
+  },
+  {
+    "name": "Stardew Valley",
+    "description": "Um RPG de simulação de fazenda onde o jogador herda uma fazenda e deve restaurá-la, interagindo com a comunidade local.",
+    "year": "2016",
+    "link": "https://www.stardewvalley.net/",
+    "tags": [
+      "Simulação",
+      "RPG",
+      "Gerenciamento",
+      "Indie"
+    ]
+  },
+  {
+    "name": "StarCraft II",
+    "description": "Um jogo de Estratégia em Tempo Real (RTS) altamente competitivo, com foco em gerenciamento de recursos, construção de exércitos e micro-gerenciamento de unidades.",
+    "year": "2010",
+    "link": "https://starcraft2.com/",
+    "tags": [
+      "Estratégia",
+      "RTS",
+      "Ficção Científica",
+      "E-sports"
+    ]
+  },
+  {
+    "name": "Disco Elysium",
+    "description": "Um RPG inovador focado em narrativa e diálogo, onde você interpreta um detetive amnésico resolvendo um assassinato em uma cidade em ruínas.",
+    "year": "2019",
+    "link": "https://discoelysium.com/",
+    "tags": [
+      "RPG",
+      "Narrativa",
+      "Detetive",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Resident Evil 2 Remake",
+    "description": "Uma recriação moderna do clássico survival horror, focado em Leon Kennedy e Claire Redfield escapando de Raccoon City infestada de zumbis.",
+    "year": "2019",
+    "link": "https://www.residentevil.com/re2/",
+    "tags": [
+      "Terror",
+      "Survival Horror",
+      "Ação",
+      "Zumbi",
+      "Sobrevivência"
+    ]
+  },
+  {
+    "name": "Apex Legends",
+    "description": "Um Battle Royale de ritmo acelerado e baseado em classes, conhecido por seu sistema de comunicação contextual ('ping') e habilidades únicas de personagem.",
+    "year": "2019",
+    "link": "https://www.ea.com/games/apex-legends",
+    "tags": [
+      "Battle Royale",
+      "FPS",
+      "Multiplayer",
+      "Competitivo"
+    ]
+  },
+  {
+    "name": "Celeste",
+    "description": "Um jogo de plataforma de precisão desafiador com uma narrativa emocionante sobre a superação da ansiedade e a escalada de uma montanha mágica.",
+    "year": "2018",
+    "link": "https://www.celestegame.com/",
+    "tags": [
+      "Plataforma",
+      "Indie",
+      "Desafio",
+      "Narrativa"
+    ]
+  },
+  {
+    "name": "Civilization VI",
+    "description": "Um jogo de estratégia 4X por turnos onde os jogadores constroem impérios do início da humanidade até a era espacial, focando em cultura, ciência e guerra.",
+    "year": "2016",
+    "link": "https://www.civilization.com/",
+    "tags": [
+      "Estratégia",
+      "4X",
+      "História",
+      "Gerenciamento"
+    ]
+  },
+  {
+    "name": "Portal 2",
+    "description": "Um jogo de puzzle e plataforma em primeira pessoa, famoso por seu humor inteligente, design de níveis criativo e um modo cooperativo genial.",
+    "year": "2011",
+    "link": "https://www.thinkwithportals.com/",
+    "tags": [
+      "Puzzle",
+      "Plataforma",
+      "Coop",
+      "Ficção Científica"
+    ]
+  },
+  {
+    "name": "Dark Souls III",
+    "description": "O encerramento da trilogia principal Souls, oferecendo combate punitivo e atmosférico em um mundo devastado pela escuridão.",
+    "year": "2016",
+    "link": "https://www.darksouls.com/",
+    "tags": [
+      "RPG",
+      "Ação",
+      "Fantasia Sombria",
+      "Desafio"
+    ]
+  },
+  {
+    "name": "Final Fantasy XIV",
+    "description": "Um MMORPG de fantasia que ressuscitou de um lançamento desastroso para se tornar um dos jogos multiplayer mais aclamados e baseados em histórias.",
+    "year": "2013",
+    "link": "https://na.finalfantasyxiv.com/",
+    "tags": [
+      "MMORPG",
+      "RPG",
+      "Fantasia",
+      "Multiplayer"
+    ]
+  },
+  {
+    "name": "Death Stranding",
+    "description": "Um jogo de ação e exploração pós-apocalíptico onde o jogador é um entregador que deve reconectar uma sociedade fragmentada nos Estados Unidos.",
+    "year": "2019",
+    "link": "https://www.kojimaproductions.jp/en/death-stranding",
+    "tags": [
+      "Ação",
+      "Aventura",
+      "Exploração",
+      "História"
+    ]
+  },
+  {
+    "name": "XCOM 2",
+    "description": "Um jogo de estratégia tática por turnos onde o jogador lidera uma resistência contra uma ocupação alienígena na Terra.",
+    "year": "2016",
+    "link": "https://xcom.com/",
+    "tags": [
+      "Estratégia",
+      "Táticas",
+      "Ficção Científica",
+      "Turno Baseado"
+    ]
+  },
+  {
+    "name": "Rocket League",
+    "description": "Futebol encontra carros movidos a foguete. Um jogo esportivo arcade multiplayer altamente competitivo e baseado em física.",
+    "year": "2015",
+    "link": "https://www.rocketleague.com/",
+    "tags": [
+      "Esportes",
+      "Arcade",
+      "Multiplayer",
+      "Competitivo"
+    ]
+  },
+  {
+    "name": "Outer Wilds",
+    "description": "Um jogo de exploração e mistério onde um viajante espacial fica preso em um loop temporal de 22 minutos enquanto tenta desvendar os segredos de um sistema solar moribundo.",
+    "year": "2019",
+    "link": "https://www.mobiusgames.com/outerwilds.html",
+    "tags": [
+      "Exploração",
+      "Mistério",
+      "Puzzle",
+      "Espaço",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Sekiro: Shadows Die Twice",
+    "description": "Um jogo de ação focado em combate ninja agressivo e parry (deflexão), ambientado no Japão feudal de Sengoku.",
+    "year": "2019",
+    "link": "https://www.sekirothegame.com/",
+    "tags": [
+      "Ação",
+      "Ninja",
+      "Combate",
+      "Dificuldade Elevada"
+    ]
+  },
+  {
+    "name": "RimWorld",
+    "description": "Um simulador de colônia de ficção científica que gera histórias, onde os colonos precisam sobreviver em um planeta hostil, enfrentando piratas, fome e moral baixa.",
+    "year": "2016",
+    "link": "https://rimworldgame.com/",
+    "tags": [
+      "Simulação",
+      "Estratégia",
+      "Gerenciamento",
+      "Indie"
+    ]
+  },
+  {
+    "name": "Sea of Thieves",
+    "description": "Um jogo de aventura em mundo aberto com foco no multiplayer cooperativo, onde os jogadores se tornam piratas navegando pelos mares em busca de tesouros.",
+    "year": "2018",
+    "link": "https://www.seaofthieves.com/",
+    "tags": [
+      "Aventura",
+      "Mundo Aberto",
+      "Coop",
+      "Piratas",
+      "Multiplayer"
+    ]
+  },
+  {
+    "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "description": "Um FPS de sobrevivência e terror ambientado na Zona de Exclusão de Chernobyl, focando em anomalias e facções em um ambiente pós-apocalíptico sombrio.",
+    "year": "2007",
+    "link": "https://www.stalker-game.com/",
+    "tags": [
+      "FPS",
+      "Sobrevivência",
+      "Terror",
+      "Pós-apocalíptico"
+    ]
+  }
+]
